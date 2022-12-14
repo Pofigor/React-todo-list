@@ -1,0 +1,40 @@
+.btn {
+  margin-left: 12px;
+}
+
+.listItems {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  margin-top: 10px;
+  padding: 6px;
+}
+
+.listItems:hover {
+  background-color: #72FEE3;
+  border-radius: 6px;
+}
+
+.close {
+  color: grey;
+  text-decoration: line-through;
+}
+
+.filter {
+  display: flex;
+  justify-content: center;
+}
+
+.btns {
+  margin-top: 30px;
+}
+
+.filterBtn {
+  background-color: #0D6EFD !important;
+  border-color: #0D6EFD !important;
+}
+
+.filterBtn:hover {
+  background-color: #0558d4 !important;
+  border-color: #0558d4 !important;
+}
